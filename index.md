@@ -1,4 +1,4 @@
 ---
-title: Welcome to Howland
+title: Howland Haus
 ---
 
